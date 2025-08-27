@@ -1,0 +1,3 @@
+wifi-enabled=true
+wifi-ssid=Miroka
+gemini-api_key=AlzaSyDdFwa1ARmmBfPW2C-YjwiXNdvzhx__uS0
